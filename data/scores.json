@@ -3,5 +3,6 @@ var scores = [
   {"op" : "Lumber Jacks", "us": "7", "them" : "5"},
   {"op" : "Marcos Hair", "us": "5", "them" : "6"},
   {"op" : "Spartains", "us": "3", "them" : "5"},
-{"op" : "Wolverine", "us": "5", "them" : "1"}
+{"op" : "Wolverine", "us": "5", "them" : "1"},
+{"op" : "Ice Invaders", "us": "10", "them" : "4"}
 ];
