@@ -6,5 +6,6 @@ var scores = [
 {"op" : "Wolverine", "us": "5", "them" : "1"},
 {"op" : "Ice Invaders", "us": "10", "them" : "4"},
 {"op" : "MOC", "us": "2", "them": "7"},
-{"op":"Acme","us":"9","them":"0"}
+{"op":"Acme","us":"9","them":"0"},
+{"op":"Lumber Jacks","us":"7","them":"11"}
 ];
