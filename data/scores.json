@@ -16,5 +16,6 @@ var scores = [
 {"op":"Macros Hair","us":"12","them":"4"},
 {"op":"Ice Invaders","us":"7","them":"4"},
 {"op":"Arnies","us":"7","them":"5"},
-{"op":"Mitten Brewing","us":"6","them":"6"}
+{"op":"Mitten Brewing","us":"6","them":"6"},
+{"op":"Red Wings","us":"6","them":"8"}
 ];
