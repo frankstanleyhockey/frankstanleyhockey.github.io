@@ -17,5 +17,6 @@ var scores = [
 {"op":"Ice Invaders","us":"7","them":"4"},
 {"op":"Arnies","us":"7","them":"5"},
 {"op":"Mitten Brewing","us":"6","them":"6"},
-{"op":"Red Wings","us":"6","them":"8"}
+{"op":"Red Wings","us":"6","them":"8"},
+{"op":"GE Aviation","us":"4","them":"2"}
 ];
