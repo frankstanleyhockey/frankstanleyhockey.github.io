@@ -26,5 +26,6 @@ var scores = [
 {"op":"Wolverine","us":"5","them":"4"},
 {"op":"Marcos Hair","us":"6","them":"5"},
 {"op":"Ice Invaders","us":"7","them":"4"},
-{"op":"Arnies","us":"6","them":"4"}
+{"op":"Arnies","us":"6","them":"4"},
+{"op":"Acme","us":"5","them":"7"}
 ];
